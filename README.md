@@ -10,3 +10,6 @@ The final output of the application/program should be a concise printout of all 
 All of this should be output to the terminal. We do not currently need a fancy UI or anything like that. 
 
 Code follows PEP-8 standards. 
+
+**Tkinter Front-end**
+In addition to the calculator, this repo will also contain a Python GUI using the tkinter framework (which is built into Python's standard library). 
