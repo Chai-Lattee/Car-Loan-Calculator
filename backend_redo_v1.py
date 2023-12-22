@@ -100,7 +100,7 @@ def main():
         fuel_cost = round(fuel_cost, 2)
         print(f"Your fuel principle cost per month will be ${fuel_cost}")
 
-# Figure out how to get down payment calculated 
+# Down payment option 
         make_down_payment = input("Do you want to make a down payment? (y/n): ").lower()
         down_payment_bool = make_down_payment == 'y'
 
