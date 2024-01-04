@@ -1,5 +1,5 @@
 # Car-Loan-Calculator
-## Project with pragmatiCoders :)
+## Project assignment from pragmatiCoders :)
 **Customer Request** <br>
 In the US, you can purchase a car with a loan. The car loan will carry an interest rate, taxes, and fees. Gas prices also influence how much you will pay just to drive each month. I would like you to build me a calculator which runs in the terminal and asks the user for information relevant to their upcoming car puchase. The user should be able to input two vehicles and as much information you think is relevant to the car buying experience. You need to think like a product manager about what questions are relevant. You don't want the customer answering dozens of questions if no necessary, but you need to get to the heart of the matter. 
 
