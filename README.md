@@ -8,7 +8,7 @@ Calculate monthly gas costs based on the MPG/gas efficiency of the car and how m
 You must consider how much the user expects each car to cost in repairs and maintenance for 1 year. 
 The cost of the car loan and interest rate for buying that car. You must take in these two parameters and write a function to calculate the person's monthly cost. Also make sure to include if they want to introduce a down payment or not and that should affect the principal amount of the loan. (If down payment, the principal is lower.) <br>
 The final output of the application/program should be a concise printout of all the information the user submitted as well as a recommendation as to why they should buy one over the other and reasons why clearly outlined. 
-All of this should be output to the terminal. We do not currently need a fancy UI or anything like that. 
+All of this should be output to the terminal.  
 
 Code follows PEP-8 standards. 
 
